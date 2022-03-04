@@ -7,15 +7,12 @@ I am Hongyu Wang (王鸿钰 in Chinese), a senior undergraduate student at Depar
 * Bachelor of Computer Science and Technology, USTC, Sept. 2018 - present 	
 
 * Interning in NLC group, Microsoft Research Asia, Aug. 2020 - present
-
   Mentor: Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/)  																				
 
 ### Publications
 
 * DeepNet: Scaling Transformers to 1,000 Layers 
-
   **Hongyu Wang\***, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
-
   [[code](https://github.com/microsoft/unilm)\]  \[[pdf](https://arxiv.org/abs/2203.00555)\]
   
 ### Awards
