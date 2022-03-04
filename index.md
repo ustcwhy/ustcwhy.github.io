@@ -17,3 +17,11 @@ I am Hongyu Wang (王鸿钰 in Chinese), a senior undergraduate student at Depar
   **Hongyu Wang\***, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
 
   [[code](https://github.com/microsoft/unilm)\]  \[[pdf](https://arxiv.org/abs/2203.00555)\]
+  
+### Awards
+
+* Outstanding Teaching Assistant at USTC, 2021
+* Silver Award of Outstanding Student Scholarship at USTC, 2020
+* First prize of the 12-th Chinese Mathematics Competitions(non-mathematics), Anhui, 2020
+* Huawei Scholarship, 2020
+* Silver Award of Outstanding Student Scholarship at USTC, 2019
