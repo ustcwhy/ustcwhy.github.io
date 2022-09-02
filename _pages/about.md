@@ -12,4 +12,4 @@ I am Hongyu Wang (王鸿钰 in Chinese), a first-year Ph.D candidate at VIPL gro
 
 *I have great interest on the following topics*: 
 1. *Pattern Recognition, Machine Learning and Computer Vision*
-2. *The Theory for Large-scale foundation models, i.e., stability, generaltion*
+2. *The Theory for Large-scale Foundation models, i.e., stability, generalization*
