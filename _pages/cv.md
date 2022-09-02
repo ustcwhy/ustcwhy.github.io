@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Computer Science and Technology, USTC, Sept. 2018 - Jun. 2022
+* Ph.D student at VIPL group, Institute of Computing Technology, Chinese Academy of Sciences
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2021 - present: Research intern
+  * NLC group, Microsoft Research Asia
+  * Supervisor: Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2021 - Jul. 2021: Teaching Assistant for Mathematical analysis B2, undergraduate cource
+  * USTC
+  * Supervisor: Yelong Zheng
+
+* Sept. 2020 - Jan. 2021: Teaching Assistant for Mathematical analysis B1, undergraduate cource
+  * USTC
+  * Supervisor: Yelong Zheng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Python, TypeScript, SQL, Matlab
+* Pytorch, Tensorflow
+* Fairseq
 
 Publications
 ======
