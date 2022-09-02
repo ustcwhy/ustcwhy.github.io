@@ -1,6 +1,6 @@
 ---
 title: "DeepNet: Scaling Transformers to 1,000 Layers"
-date: 2022-03
+date: 2022-03-02
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2203.00555'
 ---
