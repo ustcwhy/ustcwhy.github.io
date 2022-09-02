@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongyu Wang (王鸿钰 in Chinese), a first-year PhD candidate at VIPL, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received my B.Sc. degree from Department of Computer Science and Technology of University of Science and Technology of China (USTC). I was advised by associate researcher [Chao Qian](http://www.lamda.nju.edu.cn/qianc/) at USTC. I am currently a research intern under the supervision of  Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/) in MSR-Asia NLC group.
+I am Hongyu Wang (王鸿钰 in Chinese), a first-year Ph.D candidate at VIPL group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) under the surpervision of Professor [Xilin Chen](http://vipl.ict.ac.cn/people/_xlchen/). I received my B.Sc. degree from Department of Computer Science and Technology of University of Science and Technology of China (USTC). I was advised by associate researcher [Chao Qian](http://www.lamda.nju.edu.cn/qianc/) at USTC. I am currently a research intern under the supervision of  Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/) in MSR-Asia NLC group.
