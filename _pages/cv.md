@@ -34,6 +34,14 @@ Skills
 * Pytorch, Tensorflow
 * Fairseq
 
+Awards
+======
+* Outstanding Teaching Assistant at USTC, 2021
+* Silver Award of Outstanding Student Scholarship at USTC, 2020
+* First prize of the 12-th Chinese Mathematics Competitions(non-mathematics), Anhui, 2020
+* Huawei Scholarship, 2020
+* Silver Award of Outstanding Student Scholarship at USTC, 2019
+
 Publications
 ======
   <ul>{% for post in site.publications %}
