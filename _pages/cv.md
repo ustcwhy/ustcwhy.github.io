@@ -22,11 +22,11 @@ Work experience
 
 * Feb. 2021 - Jul. 2021: Teaching Assistant for Mathematical analysis B2, undergraduate cource
   * USTC
-  * Supervisor: Yelong Zheng
+  * Supervisor: Professor Yelong Zheng
 
 * Sept. 2020 - Jan. 2021: Teaching Assistant for Mathematical analysis B1, undergraduate cource
   * USTC
-  * Supervisor: Yelong Zheng
+  * Supervisor: Professor Yelong Zheng
   
 Skills
 ======
