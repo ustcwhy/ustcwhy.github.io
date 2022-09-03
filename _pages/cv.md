@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Science and Technology, USTC, Sept. 2018 - Jun. 2022
+* Bachelor of Computer Science and Technology, University of Science and Technology of China (USTC), Sept. 2018 - Jun. 2022
 * Ph.D student at VIPL group, Institute of Computing Technology, Chinese Academy of Sciences, Sept. 2022 - present
 
 Work experience
