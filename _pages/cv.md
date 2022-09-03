@@ -44,9 +44,7 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [DeepNet: Scaling Transformers to 1,000 Layers.]((https://ustcwhy.github.io/publications/deepnet/)) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
   
 <!-- Talks
 ======
