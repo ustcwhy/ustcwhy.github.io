@@ -44,7 +44,7 @@ Awards
 
 Publications
 ======
-* [DeepNet: Scaling Transformers to 1,000 Layers.]((https://ustcwhy.github.io/publications/deepnet/)) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
+* [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
   
 <!-- Talks
 ======
