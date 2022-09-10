@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Science and Technology, University of Science and Technology of China (USTC), Sept. 2018 - Jun. 2022
+* Bachelor of Computer Science and Technology, University of Science and Technology of China (USTC), Sept. 2018 - June 2022
 * Ph.D student at VIPL group, Institute of Computing Technology, Chinese Academy of Sciences, Sept. 2022 - present
 
 Work experience
@@ -20,7 +20,7 @@ Work experience
   * NLC group, Microsoft Research Asia
   * Supervisor: Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/)
 
-* Feb. 2021 - Jul. 2021: Teaching Assistant for Mathematical analysis B2, undergraduate course
+* Feb. 2021 - July 2021: Teaching Assistant for Mathematical analysis B2, undergraduate course
   * USTC
   * Supervisor: Professor Yelong Zheng
 
