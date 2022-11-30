@@ -46,6 +46,7 @@ Publications
 ======
 * [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
 * [Foundation Transformers.](https://ustcwhy.github.io/publications/foundation_transformer/) <b>Hongyu Wang</b>, Shuming Ma, Shaohan Huang, Li Dong, Wenhui Wang, Zhiliang Peng, Yu Wu, Payal Bajaj, Saksham Singhal, Alon Benhaim, Barun Patra, Zhun Liu, Vishrav Chaudhary, Xia Song, Furu Wei
+* [TorchScale: Transformers at Scale.](https://ustcwhy.github.io/publications/torchscale/) Shuming Ma, <b>Hongyu Wang</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei
   
 <!-- Talks
 ======
