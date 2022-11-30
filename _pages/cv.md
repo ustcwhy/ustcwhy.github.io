@@ -18,7 +18,7 @@ Work experience
 ======
 * Aug. 2021 - present: Research intern
   * NLC group, Microsoft Research Asia
-  * Supervisor: Dr. [Furu Wei](http://gitnlp.org/) and [Shuming Ma](https://shumingma.com/)
+  * Supervisor: Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://shumingma.com/)
 
 * Feb. 2021 - July 2021: Teaching Assistant for Mathematical analysis B2, undergraduate course
   * USTC
