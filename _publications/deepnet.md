@@ -1,9 +1,9 @@
 ---
-title: "DeepNet: Scaling Transformers to 1,000 Layers"
-date: 2022-03-02
+title: "TorchScale: Transformers at Scale"
+date: 2022-11-23
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2203.00555'
+paperurl: 'https://arxiv.org/abs/2211.13184'
 ---
-<b>Abstract</b>: In this paper, we propose a simple yet effective method to stabilize extremely deep Transformers. Specifically, we introduce a new normalization function (DeepNorm) to modify the residual connection in Transformer, accompanying with theoretically derived initialization. In-depth theoretical analysis shows that model updates can be bounded in a stable way. The proposed method combines the best of two worlds, i.e., good performance of Post-LN and stable training of Pre-LN, making DeepNorm a preferred alternative. We successfully scale Transformers up to 1,000 layers (i.e., 2,500 attention and feed-forward network sublayers) without difficulty, which is one order of magnitude deeper than previous deep Transformers. Remarkably, on a multilingual benchmark with 7,482 translation directions, our 200-layer model with 3.2B parameters significantly outperforms the 48-layer state-of-the-art model with 12B parameters by 5 BLEU points, which indicates a promising scaling direction.
+<b>Abstract</b>: Large Transformers have achieved state-of-the-art performance across many tasks. Most open-source libraries on scaling Transformers focus on improving training or inference with better parallelization. In this work, we present TorchScale, an open-source toolkit that allows researchers and developers to scale up Transformers efficiently and effectively. TorchScale has the implementation of several modeling techniques, which can improve modeling generality and capability, as well as training stability and efficiency. Experimental results on language modeling and neural machine translation demonstrate that TorchScale can successfully scale Transformers to different sizes without tears. The library is available at this [URL](https://github.com/microsoft/torchscale).
 
-[pdf](https://arxiv.org/abs/2203.00555) [codes](https://github.com/microsoft/unilm)
+[pdf](https://arxiv.org/abs/2211.13184) [codes](https://github.com/microsoft/torchscale)
