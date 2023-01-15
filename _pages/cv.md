@@ -32,7 +32,7 @@ Skills
 ======
 * C/C++, Python, TypeScript, SQL, Matlab
 * Pytorch, Tensorflow
-* Fairseq
+* Fairseq/ Detectron2
 
 Awards
 ======
