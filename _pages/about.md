@@ -14,3 +14,5 @@ I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL gr
 1. *Bridge vision, language and knowledge*
 2. *Visual scene understanding*
 3. *The Theory for Large-scale Foundation models, i.e., stability, generalization*
+
+Contact: hongyu.wang@vipl.ict.ac.cn
