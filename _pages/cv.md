@@ -45,6 +45,7 @@ Preprints
 ======
 * [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei
 * [TorchScale: Transformers at Scale.](https://ustcwhy.github.io/publications/torchscale/) Shuming Ma, <b>Hongyu Wang</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei
+* [BitNet: Scaling 1-bit Transformers for Large Language Models.](https://ustcwhy.github.io/publications/bitnet) <b>Hongyu Wang</b>, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei
 
 Publications
 ======
