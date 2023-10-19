@@ -1,5 +1,5 @@
 ---
-title: "BitNet: Scaling 1-bit Transformers for Large Language Models
+title: "BitNet: Scaling 1-bit Transformers for Large Language Models"
 date: 2023-10-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2310.11453'
