@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Aug. 2021 - Jan. 2023: Research intern
+* Aug. 2021 - Jan. 2023 & Aug 2023 - Present: Research intern
   * NLC group, Microsoft Research Asia
   * Supervisor: Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://shumingma.com/)
 
