@@ -27,12 +27,6 @@ Work experience
 * Sept. 2020 - Jan. 2021: Teaching Assistant for Mathematical analysis B1, undergraduate course
   * USTC
   * Supervisor: Professor Yelong Zheng
-  
-Skills
-======
-* C/C++, Python, TypeScript, SQL, Matlab
-* Pytorch, Tensorflow
-* Fairseq/ Detectron2
 
 Awards
 ======
@@ -40,6 +34,10 @@ Awards
 * Silver Award of Outstanding Student Scholarship at USTC, 2020
 * Huawei Scholarship, 2020
 * Silver Award of Outstanding Student Scholarship at USTC, 2019
+
+Services
+======
+* Reviewer, IEEE Transactions on Affective Computing.
 
 Preprints
 ======
