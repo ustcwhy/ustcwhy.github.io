@@ -14,4 +14,4 @@ I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL gr
 1. *Large-scale foundation models*
 2. *Multimodal reasoning and understanding*
 
-Contact: hongyu.wang@vipl.ict.ac.cn
+Contact: why0711@mail.ustc.edu.cn
