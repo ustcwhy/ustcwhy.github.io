@@ -16,5 +16,6 @@ I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL gr
 
 Contact: why0711@mail.ustc.edu.cn
 
-<b>News:</b>
+*<b>News</b>*:
+
 *<span style="color:red;">Excited to present BitNet b1.58, the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost(latency, memory, throughput, and energy consumption). </span>*
