@@ -18,4 +18,4 @@ Contact: why0711@mail.ustc.edu.cn
 
 *<b>News</b>*:
 
-*<span style="color:red;">Excited to present BitNet b1.58, the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost(latency, memory, throughput, and energy consumption). </span>*
+*<span style="color:red;">Excited to present <strong>BitNet b1.58</strong>, the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost(latency, memory, throughput, and energy consumption). </span>*
