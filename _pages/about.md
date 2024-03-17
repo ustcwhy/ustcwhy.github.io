@@ -17,4 +17,10 @@ I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL gr
 Contact: why0711@mail.ustc.edu.cn
 
 ## News:
-<span style="color:red;"><strong>2024-02:</strong> Excited to present <strong>BitNet b1.58</strong>, the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost (latency, memory, throughput, and energy consumption).</span>
+- **[02/2024]** <span style="color:red;"><strong>BitNet b1.58</strong></span>, the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost (latency, memory, throughput, and energy consumption)
+- **[10/2023]** <span style="color:red;"><strong>BitNet</strong></span>, the first binary LLM that has competitive performance of FP16 LLM and SoTA 8-bit quantization methods
+- **[05/2023]** Magneto is accepted by ICML 2023
+- **[10/2022]** **Magneto**, foundation Transformer, outperforms the de facto Transformer variants designed for various applications, including language modeling (i.e., BERT, and GPT), machine translation, vision pretraining (i.e., BEiT), speech recognition, and multimodal pretraining (i.e., BEiT-3).
+- **[03/2022]** **DeepNet**, Scaling Transformers to 1,000 Layers! Outperform M2M-100 by 5 BLEU point on the massive multilingual benchmarks.
+- **[08/2021]** Start my internship at MSR-Asia ~
+
