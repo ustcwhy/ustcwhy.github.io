@@ -20,6 +20,7 @@ Contact: why0711@mail.ustc.edu.cn
 - **[02/2024]** [<span style="color:red;"><strong>BitNet b1.58</strong></span>](https://arxiv.org/pdf/2402.17764.pdf), the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost (latency, memory, throughput, and energy consumption)
 - **[10/2023]** [<span style="color:red;"><strong>BitNet</strong></span>](https://arxiv.org/pdf/2310.11453.pdf), the first binary LLM that has competitive performance of FP16 LLM and SoTA 8-bit quantization methods
 - **[05/2023]** Magneto is accepted by ICML 2023
+- **[11/2022]** [TorchScale](https://github.com/microsoft/torchscale): Transformers at Scale
 - **[10/2022]** [**Magneto**](https://arxiv.org/pdf/2210.06423.pdf), foundation Transformer, outperforms the de facto Transformer variants designed for various applications, including language modeling (i.e., BERT, and GPT), machine translation, vision pretraining (i.e., BEiT), speech recognition, and multimodal pretraining (i.e., BEiT-3).
 - **[03/2022]** [**DeepNet**](https://arxiv.org/pdf/2203.00555.pdf), Scaling Transformers to 1,000 Layers! Outperform M2M-100 by 5 BLEU point on the massive multilingual benchmarks.
 - **[08/2021]** Start my internship at MSR-Asia ~
