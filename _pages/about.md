@@ -17,6 +17,7 @@ I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL gr
 Contact: why0711@mail.ustc.edu.cn
 
 ## News:
+- **[03/2024]** [<span style="color:red;"><strong>BitNet b1.58: Training Tips, Code and FAQ. </strong></span>](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf)
 - **[02/2024]** [<span style="color:red;"><strong>BitNet b1.58</strong></span>](https://arxiv.org/pdf/2402.17764.pdf), the first ternary LLM that matches the performance of FP16 LLM with siginificant reduction of inference cost (latency, memory, throughput, and energy consumption)
 - **[10/2023]** [<span style="color:red;"><strong>BitNet</strong></span>](https://arxiv.org/pdf/2310.11453.pdf), the first binary LLM that has competitive performance of FP16 LLM and SoTA 8-bit quantization methods
 - **[05/2023]** Magneto is accepted by ICML 2023
