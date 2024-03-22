@@ -37,7 +37,8 @@ Awards
 
 Services
 ======
-* Reviewer, IEEE Transactions on Affective Computing.
+* Journal Reviewer: IEEE Transactions on Affective Computing.
+* Conference Reviewer: ECCV, ACL Rolling Review
 
 Preprints
 ======
