@@ -46,7 +46,7 @@ Preprints & Publications
 * [BitNet: Scaling 1-bit Transformers for Large Language Models.](https://ustcwhy.github.io/publications/bitnet) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei
 * [Magneto: A Foundation Transformer.](https://ustcwhy.github.io/publications/foundation_transformer/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Shaohan Huang, Li Dong, Wenhui Wang, Zhiliang Peng, Yu Wu, Payal Bajaj, Saksham Singhal, Alon Benhaim, Barun Patra, Zhun Liu, Vishrav Chaudhary, Xia Song, Furu Wei. International Conference on Machine Learning (ICML), 2023.
 * [TorchScale: Transformers at Scale.](https://ustcwhy.github.io/publications/torchscale/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei
-* [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence
+* [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   
 <!-- Talks
 ======
