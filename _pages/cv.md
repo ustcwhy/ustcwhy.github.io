@@ -38,7 +38,8 @@ Awards
 Services
 ======
 * Journal Reviewer: IEEE Transactions on Affective Computing.
-* Conference Reviewer: ECCV, ACL Rolling Review
+* Conference Reviewer: ECCV, ACL Rolling Review.
+* Invited Talks at MiraclePlus.
 
 Preprints & Publications
 ======
