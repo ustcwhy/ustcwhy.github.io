@@ -39,7 +39,12 @@ Services
 ======
 * Journal Reviewer: IEEE Transactions on Affective Computing.
 * Conference Reviewer: ECCV, ACL Rolling Review.
-* Invited Talks at MiraclePlus.
+
+Talks
+======
+* (06/2024) The Era of 1-bit LLM at Cohere for AI, and SIGMA Lab, Tsinghua University.
+* (04/2024) BitNet b1.58 at MiraclePlus.
+* (08/2023) Magneto at Microsoft Research Asia.
 
 Preprints & Publications
 ======
