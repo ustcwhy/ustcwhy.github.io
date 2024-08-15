@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL group, Chinese Academy of Sciences (CAS) under the supervision of Professor [Xilin Chen](http://vipl.ict.ac.cn/people/_xlchen/). I received my B.Eng. degree from Department of Computer Science and Technology, University of Science and Technology of China (USTC). I was advised by associate researcher [Chao Qian](http://www.lamda.nju.edu.cn/qianc/) at USTC. I was a research intern under the supervision of Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://shumingma.com/) at Natural Language Computing group, MSR-Asia from Aug. 2021 to Jan. 2023.
+I am Hongyu Wang (王鸿钰 in Chinese), a second-year Ph.D candidate at VIPL group, Chinese Academy of Sciences (CAS). I received my B.Eng. degree from Department of Computer Science and Technology, University of Science and Technology of China (USTC). I was advised by associate researcher [Chao Qian](http://www.lamda.nju.edu.cn/qianc/) at USTC. I was a research intern under the supervision of Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://shumingma.com/) at Natural Language Computing group, MSR-Asia from Aug. 2021 to Jan. 2023.
 
 *I have great interest on the following topics*: 
 1. *Scale efficiently! Efficient architecture for the large-scale foundation models*
