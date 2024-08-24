@@ -42,9 +42,10 @@ Services
 
 Talks
 ======
-* (06/2024) The Era of 1-bit LLM at Cohere for AI, and SIGMA Lab, Tsinghua University.
+* (08/2024) The Era of 1-bit LLM at [MSR Asia Intern Tech Fest](https://mp.weixin.qq.com/s/HVhOhWpq1092Z5byc5nISw).
+* (06/2024) The Era of 1-bit LLM at [Cohere for AI](https://www.youtube.com/watch?v=oxQjGOUbQx4&list=PLLalUvky4CLJKDaiWCumhsJpHNDhZeVll&index=17&t=229s), and SIGMA Lab, Tsinghua University.
 * (04/2024) BitNet b1.58 at MiraclePlus.
-* (08/2023) Magneto at Microsoft Research Asia.
+* (08/2023) Magneto at [Microsoft Research Asia](https://www.msra.cn/zh-cn/news/features/icml-2023).
 
 Preprints & Publications
 ======
