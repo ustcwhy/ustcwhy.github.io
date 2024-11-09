@@ -17,6 +17,7 @@ I am Hongyu Wang (王鸿钰 in Chinese), a third-year Ph.D candidate at Chinese 
 Contact: why0711@mail.ustc.edu.cn
 
 ## News:
+- **[11/2024]** [<span style="color:red;"><strong>BitNet a4.8</strong></span>](https://arxiv.org/abs/2411.04965), enabling 4-bit activations for 1-bit LLMs. BitNet a4.8 has only 55% active parameters and further supports 3-bit KV cache without extra training. 2B BitNet a4.8 trained with 2T tokens achieves 50.30% acc on MMLU!
 - **[07/2024]** [<span style="color:red;"><strong>Q-Sparse</strong></span>](https://arxiv.org/abs/2407.10969), the fully Sparsely-Activated LLM.
 - **[04/2024]** <b>DeepNet</b> is accepted as the regular paper by TPAMI 2024.
 - **[03/2024]** [<span style="color:red;"><strong>BitNet b1.58: Training Tips, Code and FAQ. </strong></span>](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf)
