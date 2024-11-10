@@ -49,6 +49,8 @@ Talks
 
 Preprints & Publications
 ======
+* [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
+* [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, <b>Hongyu Wang</b>, Yan Xia, Furu Wei
 * [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei
 * [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024)
 * [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://ustcwhy.github.io/publications/bitnet_b1_58) Shuming Ma\*, <b>Hongyu Wang\*</b>, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei
