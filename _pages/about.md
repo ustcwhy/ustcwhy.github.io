@@ -12,7 +12,7 @@ I am Hongyu Wang (王鸿钰 in Chinese), a third-year Ph.D candidate at Chinese 
 
 *I have great interest on the following topics*: 
 1. *Scale efficiently! Efficient architecture for the large-scale foundation models*
-2. *Self-supervised learning for robotics*
+2. *Multimodal reasoning, robotics*
 
 Contact: why0711@mail.ustc.edu.cn
 
