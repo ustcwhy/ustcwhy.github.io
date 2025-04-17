@@ -50,6 +50,7 @@ Talks
 Preprints & Publications
 ======
 ## Scalable and Efficient Foundation Model
+* [BitNet b1.58 2B4T Technical Report.](https://ustcwhy.github.io/publications/bitnet_2b4t/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Xingxing Zhang, Ying Hu, Ting Song, Yan Xia, Furu Wei
 * [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
 * [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, <b>Hongyu Wang</b>, Yan Xia, Furu Wei
 * [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei
