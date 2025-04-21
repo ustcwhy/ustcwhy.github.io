@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Bachelor of Computer Science and Technology, University of Science and Technology of China (USTC), Sept. 2018 - June 2022
-* Ph.D student at Chinese Academy of Sciences, Sept. 2022 - present
+* Ph.D student at Institute of Computing Technology, Chinese Academy of Sciences, Sept. 2022 - present
 
 Work experience
 ======
 * Aug. 2021 - Jan. 2023 & Aug. 2023 - Present: Research intern
   * GenAI group, Microsoft Research Asia
-  * Supervisor: Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://shumingma.com/)
+  * Supervisor: Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://scholar.google.com/citations?user=J44tjDMAAAAJ)
 
 * Feb. 2021 - July 2021: Teaching Assistant for Mathematical analysis B2, undergraduate course
   * USTC
@@ -52,7 +52,7 @@ Preprints & Publications
 ## Scalable and Efficient Foundation Model
 * [BitNet b1.58 2B4T Technical Report.](https://ustcwhy.github.io/publications/bitnet_2b4t/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Xingxing Zhang, Ying Hu, Ting Song, Yan Xia, Furu Wei
 * [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
-* [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, <b>Hongyu Wang</b>, Yan Xia, Furu Wei
+* [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, <b>Hongyu Wang</b>, Furu Wei
 * [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei
 * [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024)
 * [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://ustcwhy.github.io/publications/bitnet_b1_58) Shuming Ma\*, <b>Hongyu Wang\*</b>, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei
