@@ -53,7 +53,7 @@ Preprints & Publications
 * [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_v2/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
 * [BitNet b1.58 2B4T Technical Report.](https://ustcwhy.github.io/publications/bitnet_2b4t/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Xingxing Zhang, Ying Hu, Ting Song, Yan Xia, Furu Wei
 * [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
-* [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, <b>Hongyu Wang</b>, Furu Wei
+* [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, <b>Hongyu Wang</b>, Furu Wei. ACL 2025.
 * [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei
 * [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024)
 * [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://ustcwhy.github.io/publications/bitnet_b1_58) Shuming Ma\*, <b>Hongyu Wang\*</b>, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei
