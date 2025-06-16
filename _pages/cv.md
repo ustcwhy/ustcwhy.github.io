@@ -65,7 +65,7 @@ Preprints & Publications
 
 ## Multimodal and Robotics
 * [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://ustcwhy.github.io/publications/m4u/) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen
-* [Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation.](https://ustcwhy.github.io/publications/robopro/) Senwei Xie, <b>Hongyu Wang</b>, Zhanqi Xiao, Ruiping Wang, Xilin Chen. International Conference on Intelligent Robots and Systems (IROS 2025) Oral.
+* [Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation.](https://ustcwhy.github.io/publications/robopro/) Senwei Xie\*, <b>Hongyu Wang\*</b>, Zhanqi Xiao\*, Ruiping Wang, Xilin Chen. International Conference on Intelligent Robots and Systems (IROS 2025) Oral.
   
 <!-- Talks
 ======
