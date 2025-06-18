@@ -51,20 +51,21 @@ Talks
 Preprints & Publications
 ======
 ## Scalable and Efficient Foundation Model
-* [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation.](https://ustcwhy.github.io/publications/bitvla) <b>Hongyu Wang\*</b>, Chuyan Xiong, Ruiping Wang, Xilin Chen
-* [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_v2/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
+* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models.](https://ustcwhy.github.io/publications/mote) <b>Hongyu Wang\*</b>, Jiayu Xu, Ruiping Wang, Yan Feng, Yitao Zhai, Peng Pei, Xunliang Cai, Xilin Chen.
+* [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation.](https://ustcwhy.github.io/publications/bitvla) <b>Hongyu Wang\*</b>, Chuyan Xiong, Ruiping Wang, Xilin Chen.
+* [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_v2/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei.
 * [BitNet b1.58 2B4T Technical Report.](https://ustcwhy.github.io/publications/bitnet_2b4t/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Xingxing Zhang, Ying Hu, Ting Song, Yan Xia, Furu Wei
-* [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei
+* [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei.
 * [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs.](https://ustcwhy.github.io/publications/bitnet_cpp/) Jinheng Wang, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, <b>Hongyu Wang</b>, Furu Wei. ACL 2025.
-* [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei
-* [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024)
-* [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://ustcwhy.github.io/publications/bitnet_b1_58) Shuming Ma\*, <b>Hongyu Wang\*</b>, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei
-* [BitNet: Scaling 1-bit Transformers for Large Language Models.](https://ustcwhy.github.io/publications/bitnet) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei
+* [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated.](https://ustcwhy.github.io/publications/qsparse/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei.
+* [DeepNet: Scaling Transformers to 1,000 Layers.](https://ustcwhy.github.io/publications/deepnet/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Dongdong Zhang, Furu Wei, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024).
+* [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://ustcwhy.github.io/publications/bitnet_b1_58) Shuming Ma\*, <b>Hongyu Wang\*</b>, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei.
+* [BitNet: Scaling 1-bit Transformers for Large Language Models.](https://ustcwhy.github.io/publications/bitnet) <b>Hongyu Wang\*</b>, Shuming Ma\*, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei.
 * [Magneto: A Foundation Transformer.](https://ustcwhy.github.io/publications/foundation_transformer/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Shaohan Huang, Li Dong, Wenhui Wang, Zhiliang Peng, Yu Wu, Payal Bajaj, Saksham Singhal, Alon Benhaim, Barun Patra, Zhun Liu, Vishrav Chaudhary, Xia Song, Furu Wei. International Conference on Machine Learning (ICML), 2023.
-* [TorchScale: Transformers at Scale.](https://ustcwhy.github.io/publications/torchscale/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei
+* [TorchScale: Transformers at Scale.](https://ustcwhy.github.io/publications/torchscale/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei.
 
 ## Multimodal and Robotics
-* [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://ustcwhy.github.io/publications/m4u/) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen
+* [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://ustcwhy.github.io/publications/m4u/) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen.
 * [Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation.](https://ustcwhy.github.io/publications/robopro/) Senwei Xie\*, <b>Hongyu Wang\*</b>, Zhanqi Xiao\*, Ruiping Wang, Xilin Chen. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
   
 <!-- Talks
