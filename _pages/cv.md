@@ -51,8 +51,8 @@ Talks
 Preprints & Publications
 ======
 ## Scalable and Efficient Foundation Model
-* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models.](https://ustcwhy.github.io/publications/mote) <b>Hongyu Wang\*</b>, Jiayu Xu, Ruiping Wang, Yan Feng, Yitao Zhai, Peng Pei, Xunliang Cai, Xilin Chen.
-* [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation.](https://ustcwhy.github.io/publications/bitvla) <b>Hongyu Wang\*</b>, Chuyan Xiong, Ruiping Wang, Xilin Chen.
+* [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models.](https://ustcwhy.github.io/publications/mote) <b>Hongyu Wang</b>, Jiayu Xu, Ruiping Wang, Yan Feng, Yitao Zhai, Peng Pei, Xunliang Cai, Xilin Chen.
+* [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation.](https://ustcwhy.github.io/publications/bitvla) <b>Hongyu Wang</b>, Chuyan Xiong, Ruiping Wang, Xilin Chen.
 * [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_v2/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei.
 * [BitNet b1.58 2B4T Technical Report.](https://ustcwhy.github.io/publications/bitnet_2b4t/) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Xingxing Zhang, Ying Hu, Ting Song, Yan Xia, Furu Wei
 * [BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://ustcwhy.github.io/publications/bitnet_a4_8/) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei.
