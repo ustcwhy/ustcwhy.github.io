@@ -67,6 +67,19 @@ Preprints & Publications
 ## Multimodal and Robotics
 * [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://ustcwhy.github.io/publications/m4u/) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen.
 * [Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation.](https://ustcwhy.github.io/publications/robopro/) Senwei Xie\*, <b>Hongyu Wang\*</b>, Zhanqi Xiao\*, Ruiping Wang, Xilin Chen. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+
+
+Media Reports
+======
+* **BitNet v2**: [AI era (Chinese)](https://mp.weixin.qq.com/s/CafL3szFrBMuISRG0GUpWQ), [QbitAI (Chinese)](https://mp.weixin.qq.com/s/HlSDd3Tl5lK4sHSm25z9XQ)
+* **BitNet b1.58 2B4T**: [TechCrunch](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/), [Microsoft Fiscal Year 2025 Third Quarter Earnings Conference Call](https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q3), [AI era (Chinese)](https://mp.weixin.qq.com/s/G9ZbMnBVbeH1m45HY2JIKA), [QbitAI (Chinese)](https://mp.weixin.qq.com/s/CpHcrSpzoDYcagknX9oe5g)
+* **BitNet a4.8**: [VentureBeat](https://venturebeat.com/ai/how-microsofts-next-gen-bitnet-architecture-is-turbocharging-llm-efficiency/), [AI era (Chinese)](https://mp.weixin.qq.com/s/aw3iXwNVypyrq7jnAgGoug)
+* **BitNet.cpp**: [QbitAI (Chinese)](https://mp.weixin.qq.com/s/gerCRxj4eULOut9PtMlNog)
+* **Q-Sparse**: [Microsoft Research (Chinese)](https://mp.weixin.qq.com/s/JlvfBXLgn_aS9GrhhAYncQ), [QbitAI (Chinese)](https://mp.weixin.qq.com/s/hBC9TcYrHMGVG9VgogLqWw)
+* **BitNet b1.58**: [IEEE Spectrum](https://spectrum.ieee.org/1-bit-llm), [Forbes](https://www.forbes.com/sites/lanceeliot/2024/11/22/small-bits-big-ideas-the-amazing-rise-of-1-bit-llms-for-building-faster-and-slimer-generative-ai-apps/), [QbitAI (Chinese)](https://mp.weixin.qq.com/s/ziQDq8eaFCKlMaMKV9EM8Q), [Synced (Chinese)](https://mp.weixin.qq.com/s/ao71aBUsEXoO_DC3hwpqQA), [Microsoft Research (Chinese)](https://mp.weixin.qq.com/s/4qtD_S_cC8OF0GENBPP-_Q), [xTech (Japanese)](https://xtech.nikkei.com/atcl/nxt/column/18/00001/10028/)
+* **TorchScale**: [Microsoft Research (Chinese)](https://mp.weixin.qq.com/s/7oSv-RlwpWRPy5-t8meKCA)
+* **DeepNet**: [QbitAI (Chinese)](https://mp.weixin.qq.com/s/3cN5I1hqPZNe6cXUPJ2wVA), [Synced (Chinese)](https://mp.weixin.qq.com/s/ejXE4-oBkqqtYITKZHpudQ), [AI era (Chinese)](https://mp.weixin.qq.com/s/Vo-mlDMjYQXmwAsXkhF3Yg)
+
   
 <!-- Talks
 ======
