@@ -79,6 +79,7 @@ Media Reports
   2. [Microsoft Fiscal Year 2025 Third Quarter Earnings Conference Call](https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q3)
   3. [仅需0.4GB，参数只有0和±1！微软开源首个原生1 bit模型，CPU轻松跑 (新智元)](https://mp.weixin.qq.com/s/G9ZbMnBVbeH1m45HY2JIKA)
   4. [微软开源“原生1bit”三进制LLM：2B参数，0.4GB内存/单CPU就能跑，性能与同规模全精度开源模型相当 (量子位)](https://mp.weixin.qq.com/s/CpHcrSpzoDYcagknX9oe5g)
+  5. [Low Precision, High Performance: Researchers at Microsoft and Tsinghua researchers propose 1.58-bit AI model that rivals full-precision competitors (Deeplearning.AI)](https://www.deeplearning.ai/the-batch/researchers-at-microsoft-and-tsinghua-propose-1-58-bit-ai-model-that-rivals-full-precision-competitors/)
 * **BitNet a4.8**:
   1. [How Microsoft’s next-gen BitNet architecture is turbocharging LLM efficiency (VentureBeat)](https://venturebeat.com/ai/how-microsofts-next-gen-bitnet-architecture-is-turbocharging-llm-efficiency/)
   2. [1-bit大模型还能再突破！新一代BitNet架构启用4位激活值 (新智元)](https://mp.weixin.qq.com/s/aw3iXwNVypyrq7jnAgGoug)
