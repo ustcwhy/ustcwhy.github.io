@@ -38,7 +38,7 @@ Awards
 Services
 ======
 * Journal Reviewer: IEEE Transactions on Affective Computing.
-* Conference Reviewer: ICLR, ICCV, ECCV, EMNLP, ACL Rolling Review.
+* Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, EMNLP, ACL Rolling Review.
 
 Talks
 ======
