@@ -30,6 +30,7 @@ Work experience
 
 Awards
 ======
+* ¥1M funding for [MiraclePlus Compute Power Project](https://www.miracleplus.com/compute/), 2025
 * Outstanding Teaching Assistant at USTC, 2021
 * Silver Award of Outstanding Student Scholarship at USTC, 2020
 * Huawei Scholarship, 2020
