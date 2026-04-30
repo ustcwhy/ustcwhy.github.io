@@ -53,7 +53,7 @@ Talks
 Preprints & Publications
 ======
 ## Scalable and Efficient Foundation Model
-* [Scaling Large Language Models with Fully Sparse Activations.](https://openreview.net/forum?id=MntjMCroiE) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei. Transactions on Machine Learning Research (TMLR 2026)
+* [Scaling Large Language Models with Fully Sparse Activations.](https://openreview.net/forum?id=MntjMCroiE) <b>Hongyu Wang\*</b>, Shuming Ma\*, Ruiping Wang, Furu Wei. Transactions on Machine Learning Research (TMLR 2026).
 * [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models.](https://arxiv.org/abs/2506.14435) <b>Hongyu Wang</b>, Jiayu Xu, Ruiping Wang, Yan Feng, Yitao Zhai, Peng Pei, Xunliang Cai, Xilin Chen. 
 * [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation.](https://arxiv.org/abs/2506.07530) <b>Hongyu Wang</b>, Chuyan Xiong, Ruiping Wang, Xilin Chen. [![GitHub stars](https://img.shields.io/github/stars/ustcwhy/bitvla?style=social)](https://github.com/ustcwhy/bitvla) [![Hugging Face](https://img.shields.io/badge/Hugging--Face-Model-blue?logo=huggingface&logoColor=white)](https://huggingface.co/collections/hongyuw/bitvla-68468fb1e3aae15dd8a4e36e)
 * [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs.](https://arxiv.org/abs/2504.18415) <b>Hongyu Wang\*</b>, Shuming Ma\*, Furu Wei.
@@ -66,7 +66,7 @@ Preprints & Publications
 * [TorchScale: Transformers at Scale.](https://arxiv.org/abs/2211.13184) Shuming Ma\*, <b>Hongyu Wang\*</b>, Shaohan Huang, Wenhui Wang, Zewen Chi, Li Dong, Alon Benhaim, Barun Patra, Vishrav Chaudhary, Xia Song, Furu Wei. [![GitHub stars](https://img.shields.io/github/stars/microsoft/torchscale?style=social)](https://github.com/microsoft/torchscale)
 
 ## Multimodal and Robotics
-* [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://arxiv.org/abs/2405.15638) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen. 
+* [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.](https://arxiv.org/abs/2405.15638) <b>Hongyu Wang\*</b>, Jiayu Xu\*, Senwei Xie\*, Ruiping Wang, Jialin Li, Zhaojie Xie, Bin Zhang, Chuyan Xiong, Xilin Chen. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026).
 * [Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation.](https://arxiv.org/abs/2501.04268) Senwei Xie\*, <b>Hongyu Wang\*</b>, Zhanqi Xiao\*, Ruiping Wang, Xilin Chen. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 
 
