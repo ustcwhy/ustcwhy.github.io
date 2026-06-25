@@ -10,6 +10,8 @@ redirect_from:
 
 I am Hongyu Wang (王鸿钰 in Chinese), a fourth-year Ph.D candidate at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) under the supervision of Professor [Xilin Chen](http://vipl.ict.ac.cn/people/_xlchen/). I received my B.Eng. degree from Department of Computer Science and Technology, University of Science and Technology of China (USTC). I was advised by Professor [Chao Qian](http://www.lamda.nju.edu.cn/qianc/) at USTC. I was a research intern under the supervision of Dr. [Furu Wei](https://thegenerality.com/) and [Shuming Ma](https://scholar.google.com/citations?user=J44tjDMAAAAJ) at General Artificial Intelligence group (GenAI), MSR-Asia from Aug. 2021 to June 2025.
 
+王鸿钰，中国科学院计算技术研究所和中国科学院大学2022级博士生（预计2027年7月毕业），导师为陈熙霖教授。研究方向为大模型预训练、高效可扩展的大模型架构设计。2022年于中国科学技术大学计算机科学与技术学院获得学士学位。曾于2021年8月至2025年6月在微软亚洲研究院通用人工智能组参与研究实习，指导老师为马树铭研究员和韦福如研究员。博士期间在国际顶级AI期刊和会议TPAMI、JMLR、ICML等发表多篇一作论文，谷歌学术引用累计1477次，单篇引用最高859次。研究成果DeepNet和Magneto首次将Transformer扩展至1000层以上，被GLM-130B、MiniMax-Text-01、EVA-ViT系列等开源模型采用，开源代码已获3.1K Star。研究成果BitNet系列首次提出了1-bit大语言模型架构及预训练方法，大幅度降低了大模型的推理成本，被TechCrunch、VentureBeat、Forbes、机器之心等国内外科技媒体广泛报道,受到社区广泛关注。研究成果BitNet 2B4T作为首个原生支持1.58-bit权重的LLM，在HuggingFace开源首月下载量超过12万，其推理框架bitnet.cpp在GitHub已获3.9万Star，并进入Microsoft 2025财年第三季度财报电话会议. 研究成果BitVLA进一步提出了轻量的1.58-bit ViT后训练量化方案，构建了首个全1.58-bit的VLM和VLA模型，获奇绩算力计划100万人民币算力资助。
+
 *I have great interest on the following topics*: 
 1. *Scale efficiently! Efficient architecture for the large-scale foundation models*
 2. *Multimodal reasoning, robotics*
