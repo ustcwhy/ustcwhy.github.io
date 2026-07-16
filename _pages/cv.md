@@ -40,11 +40,11 @@ Awards
 Services
 ======
 * Journal Reviewer: IEEE Transactions on Affective Computing.
-* Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, EMNLP, ACL Rolling Review.
+* Conference Reviewer: NeurIPS, ICML, ICLR, ICCV, CVPR, ECCV, EMNLP, ACL Rolling Review, WACV.
 
 Talks
 ======
-* (05/2024) The Era of 1-bit LLM (BitNet b1 / b1.58 / a4.8 / v2 ) at Xiaomi LLM-Core. [Slides](https://github.com/ustcwhy/ustcwhy.github.io/blob/master/files/bitnet-20250527.pdf).
+* (05/2025) The Era of 1-bit LLM (BitNet b1 / b1.58 / a4.8 / v2 ) at Xiaomi LLM-Core. [Slides](https://github.com/ustcwhy/ustcwhy.github.io/blob/master/files/bitnet-20250527.pdf).
 * (08/2024) The Era of 1-bit LLM at [MSR Asia Intern Tech Fest](https://mp.weixin.qq.com/s/HVhOhWpq1092Z5byc5nISw).
 * (06/2024) The Era of 1-bit LLM at [Cohere for AI](https://www.youtube.com/watch?v=oxQjGOUbQx4&list=PLLalUvky4CLJKDaiWCumhsJpHNDhZeVll&index=17&t=229s), and SIGMA Lab, Tsinghua University.
 * (04/2024) BitNet b1.58 at MiraclePlus.
