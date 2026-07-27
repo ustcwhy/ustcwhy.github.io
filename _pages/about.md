@@ -21,6 +21,7 @@ Contact: why0711@mail.ustc.edu.cn
 <span style="color:red;"><strong>I’m currently open to full-time opportunities starting in Summer 2027. If you believe my background could be a good fit for your team, I’d be glad to talk.</strong></span>
 
 ## News:
+- **[07/2026]** [<b>BitNet v2</b>]() is accepted as the regular paper by TPAMI 2026!
 - **[06/2025]** [<b>BitNet</b>](https://jmlr.org/papers/v26/24-2050.html) is accepted as the regular paper by JMLR 2025!
 - **[06/2025]** Introducing [<span style="color:red;"><strong>BitVLA</strong></span>](https://arxiv.org/abs/2506.07530), the first 1-bit VLA model for robotics manipulation and multimodal tasks! [Model weights](https://huggingface.co/collections/hongyuw/bitvla-68468fb1e3aae15dd8a4e36e) and [code](https://github.com/ustcwhy/BitVLA) are public!
 - **[05/2025]** [<span style="color:red;"><strong>Wrote a slides to review our exploration in BitNet series </strong></span>](https://github.com/ustcwhy/ustcwhy.github.io/blob/master/files/bitnet-20250527.pdf). Feel free to send your questions through e-mail.
